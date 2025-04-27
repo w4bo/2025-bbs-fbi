@@ -39,5 +39,5 @@ Master in [Data Marketing and Analytics](https://www.bbs.unibo.eu/master-fulltim
 
 Exam:
 
-- Written test (1h): Questions related to the concepts introduced in the course (mainly the first 3 lessons); questions can be both open-ended and closed-ended. 
+- Written test (1h): Questions related to the concepts introduced in the course (mainly the first 3 lessons); questions will be open-ended and no external material is allowed. 
 - Practical test (1h): Students will be asked to perform OLAP queries on Power BI.
